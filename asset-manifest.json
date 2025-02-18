@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vamshikrishna/static/css/main.e3baf052.css",
-    "main.js": "/vamshikrishna/static/js/main.60fc847b.js",
+    "main.js": "/vamshikrishna/static/js/main.a4ab8ad5.js",
     "static/js/453.0936ca66.chunk.js": "/vamshikrishna/static/js/453.0936ca66.chunk.js",
     "index.html": "/vamshikrishna/index.html",
     "main.e3baf052.css.map": "/vamshikrishna/static/css/main.e3baf052.css.map",
-    "main.60fc847b.js.map": "/vamshikrishna/static/js/main.60fc847b.js.map",
+    "main.a4ab8ad5.js.map": "/vamshikrishna/static/js/main.a4ab8ad5.js.map",
     "453.0936ca66.chunk.js.map": "/vamshikrishna/static/js/453.0936ca66.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e3baf052.css",
-    "static/js/main.60fc847b.js"
+    "static/js/main.a4ab8ad5.js"
   ]
 }
