@@ -27,7 +27,8 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "preinstall": "npm install --legacy-peer-deps"
+    "preinstall": "echo 'Skipping redundant npm install'"
+
 
   },
   "eslintConfig": {
