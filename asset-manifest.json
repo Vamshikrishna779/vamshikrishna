@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/vamshikrishna/static/css/main.19c9a8e3.css",
-    "main.js": "/vamshikrishna/static/js/main.af32d754.js",
+    "main.css": "/vamshikrishna/static/css/main.11174011.css",
+    "main.js": "/vamshikrishna/static/js/main.2717ce2b.js",
     "static/js/453.0936ca66.chunk.js": "/vamshikrishna/static/js/453.0936ca66.chunk.js",
-    "static/media/logoo.png": "/vamshikrishna/static/media/logoo.04b408b392c6b82393c2.png",
+    "static/media/logoc.png": "/vamshikrishna/static/media/logoc.876ef8eb2065d6be169c.png",
     "index.html": "/vamshikrishna/index.html",
-    "main.19c9a8e3.css.map": "/vamshikrishna/static/css/main.19c9a8e3.css.map",
-    "main.af32d754.js.map": "/vamshikrishna/static/js/main.af32d754.js.map",
+    "main.11174011.css.map": "/vamshikrishna/static/css/main.11174011.css.map",
+    "main.2717ce2b.js.map": "/vamshikrishna/static/js/main.2717ce2b.js.map",
     "453.0936ca66.chunk.js.map": "/vamshikrishna/static/js/453.0936ca66.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.19c9a8e3.css",
-    "static/js/main.af32d754.js"
+    "static/css/main.11174011.css",
+    "static/js/main.2717ce2b.js"
   ]
 }
