@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/vamshikrishna/static/css/main.6a948e9f.css",
-    "main.js": "/vamshikrishna/static/js/main.f06e558d.js",
+    "main.css": "/vamshikrishna/static/css/main.2a20a2c5.css",
+    "main.js": "/vamshikrishna/static/js/main.13540f2c.js",
     "static/js/453.0936ca66.chunk.js": "/vamshikrishna/static/js/453.0936ca66.chunk.js",
-    "static/media/logoc.png": "/vamshikrishna/static/media/logoc.876ef8eb2065d6be169c.png",
     "static/media/pothan.jpg": "/vamshikrishna/static/media/pothan.9a0ad2b0b049cd523155.jpg",
     "static/media/usaid.jpg": "/vamshikrishna/static/media/usaid.82d8d77401da02e53164.jpg",
     "index.html": "/vamshikrishna/index.html",
-    "main.6a948e9f.css.map": "/vamshikrishna/static/css/main.6a948e9f.css.map",
-    "main.f06e558d.js.map": "/vamshikrishna/static/js/main.f06e558d.js.map",
+    "main.2a20a2c5.css.map": "/vamshikrishna/static/css/main.2a20a2c5.css.map",
+    "main.13540f2c.js.map": "/vamshikrishna/static/js/main.13540f2c.js.map",
     "453.0936ca66.chunk.js.map": "/vamshikrishna/static/js/453.0936ca66.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a948e9f.css",
-    "static/js/main.f06e558d.js"
+    "static/css/main.2a20a2c5.css",
+    "static/js/main.13540f2c.js"
   ]
 }
